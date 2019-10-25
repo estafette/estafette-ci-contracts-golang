@@ -1,4 +1,4 @@
-module github.com/estafette/estafette-ci-contracts-golang
+module github.com/estafette/estafette-ci-protos-golang
 
 go 1.13
 
